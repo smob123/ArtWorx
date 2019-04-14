@@ -8,16 +8,16 @@ export default class OurWork extends Component {
 
                 <div>
                     <div>
-                        <img src={require('../../images/our-work/img1.jpg')} />
+                        <img src={require('../../images/home/our-work/img1.jpg')} alt='work1' />
                     </div>
                     <div>
-                        <img src={require('../../images/our-work/img2.jpg')} />
+                        <img src={require('../../images/home/our-work/img2.jpg')} alt='work2' />
                     </div>
                     <div>
-                        <img src={require('../../images/our-work/img3.jpg')} />
+                        <img src={require('../../images/home/our-work/img3.jpg')} alt='work3' />
                     </div>
                     <div>
-                        <img src={require('../../images/our-work/img4.jpg')} />
+                        <img src={require('../../images/home/our-work/img4.jpg')} alt='work4' />
                     </div>
                 </div>
             </section>

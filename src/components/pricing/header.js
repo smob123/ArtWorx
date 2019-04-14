@@ -52,7 +52,7 @@ export default class Header extends Component {
 
     render() {
         return (
-            <div className='header home'>
+            <div className='header pricing'>
                 <div className='top-bar'>
                     <div className='title-container'>
                         <Link to='/'>
@@ -68,7 +68,7 @@ export default class Header extends Component {
                         </div>
                         <div className='main-nav'>
 
-                            <span className='active'>
+                            <span>
                                 <Link to='/'>
                                     Home
                                 </Link>
@@ -88,8 +88,7 @@ export default class Header extends Component {
                 </div>
 
                 <div className='content'>
-                    <span>Creative Design</span>
-                    <span>Far far away, behind the word mountains. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</span>
+                    <span>Our Pricing</span>
                 </div>
             </div>
         );

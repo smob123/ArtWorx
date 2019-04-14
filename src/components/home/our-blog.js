@@ -15,7 +15,7 @@ export default class OurBlog extends Component {
 
                 <div className='blogs'>
                     <div className='blog'>
-                        <img src={require('../../images/our-blog/img1.jpg')} />
+                        <img src={require('../../images/home/our-blog/img1.jpg')} alt='design-trends' />
                         <h1>Latest Design Trends</h1>
                         <span>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
                             there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the
@@ -23,7 +23,7 @@ export default class OurBlog extends Component {
                             </span>
                     </div>
                     <div className='blog'>
-                        <img src={require('../../images/our-blog/img2.jpg')} />
+                        <img src={require('../../images/home/our-blog/img2.jpg')} alt='sales' />
                         <h1>2019 Sales</h1>
                         <span>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
                             there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the
@@ -31,8 +31,8 @@ export default class OurBlog extends Component {
                             </span>
                     </div>
                     <div className='blog'>
-                        <img src={require('../../images/our-blog/img3.jpg')} />
-                        <h1>Download Our New Mobile App</h1>
+                        <img src={require('../../images/home/our-blog/img3.jpg')} alt='optimize-your-website' />
+                        <h1>Optimize Your Website for SEO</h1>
                         <span>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
                             there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the
                             Semantics, a large language ocean.

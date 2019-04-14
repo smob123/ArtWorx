@@ -42,7 +42,7 @@ export default class Features extends Component {
                     </div>
                 </div>
                 <div className='img-container'>
-                    <img src={require('../../images/features/img1.png')} />
+                    <img src={require('../../images/home/features/img1.png')} alt='mobile-app' />
                 </div>
             </section>
         );
