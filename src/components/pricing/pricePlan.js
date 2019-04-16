@@ -5,7 +5,7 @@ export default class PricePlan extends Component {
         return (
             <div className='plan-container flex-row'>
                 <div className='img-container flex-col'>
-                    <img src={this.props.image} />
+                    <img src={this.props.image} alt='pring-plan' />
                 </div>
 
                 <div className='txt-container flex-col'>

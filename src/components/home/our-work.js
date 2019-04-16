@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class OurWork extends Component {
     render() {
         return (
-            <section className='our-work-section dark-bg'>
+            <section className='our-work-section flex-col dark-bg'>
                 <h1>Our Recent Work</h1>
 
                 <div className='flex-col'>
