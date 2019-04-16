@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 export default class OurBlog extends Component {
     render() {
         return (
-            <section className='our-blog-section'>
-                <div className='txt-container'>
+            <section className='our-blog-section flex-col'>
+                <div className='txt-container flex-col'>
                     <h1>Our Blog</h1>
                     <span>
                         Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
@@ -13,8 +13,8 @@ export default class OurBlog extends Component {
                     </span>
                 </div>
 
-                <div className='blogs'>
-                    <div className='blog'>
+                <div className='blogs flex-col'>
+                    <div className='blog flex-col'>
                         <img src={require('../../images/home/our-blog/img1.jpg')} alt='design-trends' />
                         <h1>Latest Design Trends</h1>
                         <span>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
@@ -22,7 +22,7 @@ export default class OurBlog extends Component {
                             Semantics, a large language ocean.
                             </span>
                     </div>
-                    <div className='blog'>
+                    <div className='blog flex-col'>
                         <img src={require('../../images/home/our-blog/img2.jpg')} alt='sales' />
                         <h1>2019 Sales</h1>
                         <span>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
@@ -30,7 +30,7 @@ export default class OurBlog extends Component {
                             Semantics, a large language ocean.
                             </span>
                     </div>
-                    <div className='blog'>
+                    <div className='blog flex-col'>
                         <img src={require('../../images/home/our-blog/img3.jpg')} alt='optimize-your-website' />
                         <h1>Optimize Your Website for SEO</h1>
                         <span>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,

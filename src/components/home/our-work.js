@@ -6,7 +6,7 @@ export default class OurWork extends Component {
             <section className='our-work-section dark-bg'>
                 <h1>Our Recent Work</h1>
 
-                <div>
+                <div className='flex-col'>
                     <div>
                         <img src={require('../../images/home/our-work/img1.jpg')} alt='work1' />
                     </div>

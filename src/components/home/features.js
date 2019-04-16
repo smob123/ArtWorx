@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class Features extends Component {
     render() {
         return (
-            <section className='features-section light-bg'>
+            <section className='features-section flex-col light-bg'>
                 <div className='txt-container'>
                     <div className='top-container'>
                         <h1>Tons of Features</h1>

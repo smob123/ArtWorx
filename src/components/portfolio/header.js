@@ -53,7 +53,7 @@ export default class Header extends Component {
     render() {
         return (
             <div className='header portfolio'>
-                <div className='top-bar'>
+                <div className='top-bar flex-row'>
                     <div className='title-container'>
                         <Link to='/'>
                             <span>ArtWorx</span>
@@ -87,7 +87,7 @@ export default class Header extends Component {
                     </div>
                 </div>
 
-                <div className='content'>
+                <div className='content flex-col'>
                     <span>Our Portfolio</span>
                 </div>
             </div>

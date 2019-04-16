@@ -3,9 +3,9 @@ import React, { Component } from 'react';
 export default class OurPartners extends Component {
     render() {
         return (
-            <section className='our-partners-section dark-bg'>
+            <section className='our-partners-section flex-col dark-bg'>
                 <h1>Our Partners</h1>
-                <div className='logos'>
+                <div className='logos flex-row'>
                     <div>
                         <img src={require('../../images/home/our-partners/img1.png')} alt='barber' />
                     </div>

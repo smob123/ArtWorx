@@ -6,23 +6,23 @@ export default class Technologies extends Component {
     render() {
         return (
             <section className='technologies-section'>
-                <div className='content'>
-                    <div>
+                <div className='content flex-col'>
+                    <div className='flex-col'>
                         <FontAwesomeIcon icon={faGlobe} size='4x' />
                         <span>WordPress</span>
                     </div>
 
-                    <div>
+                    <div className='flex-col'>
                         <FontAwesomeIcon icon={faPencilRuler} size='4x' />
                         <span>Design/Graphics</span>
                     </div>
 
-                    <div>
+                    <div className='flex-col'>
                         <FontAwesomeIcon icon={faLayerGroup} size='4x' />
                         <span>HTML/CSS/JQuery</span>
                     </div>
 
-                    <div>
+                    <div className='flex-col'>
                         <FontAwesomeIcon icon={faCogs} size='4x' />
                         <span>Support/Updates</span>
                     </div>

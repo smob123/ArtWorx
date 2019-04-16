@@ -3,9 +3,9 @@ import React, { Component } from 'react';
 export default class About extends Component {
     render() {
         return (
-            <section className='about-section light-bg'>
-                <div className='content'>
-                    <div className='img-container'>
+            <section className='about-section flex-col light-bg'>
+                <div className='content flex-col'>
+                    <div className='img-container flex-col'>
                         <img src={require('../../images/portfolio/about-us/img1.jpg')} alt='about-us' />
                     </div>
 

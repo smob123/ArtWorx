@@ -3,11 +3,11 @@ import React, { Component } from 'react';
 export default class Clients extends Component {
     render() {
         return (
-            <section className='client-section light-bg'>
+            <section className='client-section flex-col light-bg'>
                 <h1>Our Clients</h1>
 
-                <div className='client-cards'>
-                    <div className='client'>
+                <div className='client-cards flex-col'>
+                    <div className='client flex-row'>
                         <img src={require('../../images/portfolio/clients/img1.jpg')} alt='client' />
                         <div className='txt-container'>
                             <h4>John Smith</h4>
@@ -15,7 +15,7 @@ export default class Clients extends Component {
                         </div>
                     </div>
 
-                    <div className='client'>
+                    <div className='client flex-row'>
                         <img src={require('../../images/portfolio/clients/img2.jpg')} alt='client' />
                         <div className='txt-container'>
                             <h4>Jane Doe</h4>
@@ -23,7 +23,7 @@ export default class Clients extends Component {
                         </div>
                     </div>
 
-                    <div className='client'>
+                    <div className='client flex-row'>
                         <img src={require('../../images/portfolio/clients/img3.jpg')} alt='client' />
                         <div className='txt-container'>
                             <h4>John Doe</h4>
