@@ -12,9 +12,9 @@ class App extends Component {
     return (
       <Router basename={process.env.PUBLIC_URL}>
         <ScrollToTop>
-          <Route exact path='/' component={Home} />
-          <Route path='/portfolio' component={Portfolio} />
-          <Route path='/pricing' component={Pricing} />
+          <Route exact path={process.env.PUBLIC_URL + '/'} component={Home} />
+          <Route path={process.env.PUBLIC_URL + '/portfolio'} component={Portfolio} />
+          <Route path={process.env.PUBLIC_URL + '/pricing'} component={Pricing} />
         </ScrollToTop>
       </Router>
     );
