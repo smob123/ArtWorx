@@ -22,46 +22,48 @@ export default class Services extends Component {
                     </span>
                 </div>
 
-                <div className='light-bg services flex-col'>
-                    <div className='flex-col'>
-                        <FontAwesomeIcon icon={faInfinity} size='4x' color='#f34141' />
-                        <h2>Limitless possibilities</h2>
-                        <span>
-                            Far far away, behind the word mountains, far from the
-                            countries Vokalia and Consonantia, there live the blind
-                            texts. Separated they live in Bookmarksgrove right at the
-                         coast of the Semantics, a large language ocean.
+                <div className='light-bg bottom-container flex-col'>
+                    <div className='services flex-col'>
+                        <div className='flex-col'>
+                            <FontAwesomeIcon icon={faInfinity} size='4x' color='#f34141' />
+                            <h2>Limitless possibilities</h2>
+                            <span>
+                                Far far away, behind the word mountains, far from the
+                                countries Vokalia and Consonantia, there live the blind
+                                texts. Separated they live in Bookmarksgrove right at the
+                             coast of the Semantics, a large language ocean.
                         </span>
-                    </div>
-                    <div className='flex-col'>
-                        <FontAwesomeIcon icon={faRobot} size='4x' color='#f34141' />
-                        <h2>Powered by AI</h2>
-                        <span>
-                            Far far away, behind the word mountains, far from the
-                            countries Vokalia and Consonantia, there live the blind
-                            texts. Separated they live in Bookmarksgrove right at the
-                         coast of the Semantics, a large language ocean.
+                        </div>
+                        <div className='flex-col'>
+                            <FontAwesomeIcon icon={faRobot} size='4x' color='#f34141' />
+                            <h2>Powered by AI</h2>
+                            <span>
+                                Far far away, behind the word mountains, far from the
+                                countries Vokalia and Consonantia, there live the blind
+                                texts. Separated they live in Bookmarksgrove right at the
+                             coast of the Semantics, a large language ocean.
                         </span>
-                    </div>
-                    <div className='flex-col'>
-                        <FontAwesomeIcon icon={faLifeRing} size='4x' color='#f34141' />
-                        <h2>24/7 Live Support</h2>
-                        <span>
-                            Far far away, behind the word mountains, far from the
-                            countries Vokalia and Consonantia, there live the blind
-                            texts. Separated they live in Bookmarksgrove right at the
-                         coast of the Semantics, a large language ocean.
+                        </div>
+                        <div className='flex-col'>
+                            <FontAwesomeIcon icon={faLifeRing} size='4x' color='#f34141' />
+                            <h2>24/7 Live Support</h2>
+                            <span>
+                                Far far away, behind the word mountains, far from the
+                                countries Vokalia and Consonantia, there live the blind
+                                texts. Separated they live in Bookmarksgrove right at the
+                             coast of the Semantics, a large language ocean.
                         </span>
-                    </div>
-                    <div className='flex-col'>
-                        <FontAwesomeIcon icon={faDesktop} size='4x' color='#f34141' />
-                        <h2>Fully Responsive</h2>
-                        <span>
-                            Far far away, behind the word mountains, far from the
-                            countries Vokalia and Consonantia, there live the blind
-                            texts. Separated they live in Bookmarksgrove right at the
-                         coast of the Semantics, a large language ocean.
+                        </div>
+                        <div className='flex-col'>
+                            <FontAwesomeIcon icon={faDesktop} size='4x' color='#f34141' />
+                            <h2>Fully Responsive</h2>
+                            <span>
+                                Far far away, behind the word mountains, far from the
+                                countries Vokalia and Consonantia, there live the blind
+                                texts. Separated they live in Bookmarksgrove right at the
+                             coast of the Semantics, a large language ocean.
                         </span>
+                        </div>
                     </div>
                 </div>
             </section>

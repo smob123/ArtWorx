@@ -211,8 +211,13 @@ body {
   color: #727070;
 }
 
+.services-section .bottom-container {
+  width: 100%;
+}
+
 .services {
   padding: 20px;
+  max-width: 1500px;
 }
 
 .services div {
