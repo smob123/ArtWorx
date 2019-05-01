@@ -4,24 +4,24 @@ self.__precacheManifest = [
     "url": "/ArtWorx/static/media/img3.ddabfcaf.jpg"
   },
   {
-    "revision": "d63c7d343597ba7a99c4",
-    "url": "/ArtWorx/static/css/main.527f59e7.chunk.css"
+    "revision": "e44fb3ab6f6b4760a8c2",
+    "url": "/ArtWorx/static/css/main.5f3df4d7.chunk.css"
   },
   {
-    "revision": "56f3b69f429649fabfeb",
-    "url": "/ArtWorx/static/js/runtime~main.a520d134.js"
+    "revision": "4b03861f07d17db74bb5",
+    "url": "/ArtWorx/static/js/runtime~main.07055f4c.js"
   },
   {
-    "revision": "8d2d7e089ff249cb5c47",
-    "url": "/ArtWorx/static/js/2.dfb870c6.chunk.js"
-  },
-  {
-    "revision": "c0a30e97d026657062fb52dc84c35ea6",
-    "url": "/ArtWorx/static/media/background.c0a30e97.jpg"
+    "revision": "8c6319a7f35726432837",
+    "url": "/ArtWorx/static/js/2.ca122ec1.chunk.js"
   },
   {
     "revision": "6f4aa0c0b97eead2a76407c96897c1a4",
     "url": "/ArtWorx/static/media/img2.6f4aa0c0.jpg"
+  },
+  {
+    "revision": "6168061cd33b7272ef9e74075e998e6c",
+    "url": "/ArtWorx/static/media/img1.6168061c.jpg"
   },
   {
     "revision": "c1cf49b280f3e62274c3bc78570b021b",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/ArtWorx/static/media/background.3efe212c.jpg"
   },
   {
-    "revision": "6168061cd33b7272ef9e74075e998e6c",
-    "url": "/ArtWorx/static/media/img1.6168061c.jpg"
+    "revision": "c0a30e97d026657062fb52dc84c35ea6",
+    "url": "/ArtWorx/static/media/background.c0a30e97.jpg"
   },
   {
     "revision": "c8d3047504f61eb810964a758280aec4",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/ArtWorx/static/media/img2.b3812e13.jpg"
   },
   {
-    "revision": "d63c7d343597ba7a99c4",
-    "url": "/ArtWorx/static/js/main.6c8238ca.chunk.js"
+    "revision": "e44fb3ab6f6b4760a8c2",
+    "url": "/ArtWorx/static/js/main.790f913d.chunk.js"
   },
   {
     "revision": "9a847a9ee48d0f449834995080291965",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/ArtWorx/static/media/img3.117a5734.jpg"
   },
   {
-    "revision": "6ef0d92f16ecc4c7c06f96c66c75fb4f",
+    "revision": "31552ca79706d9a35b34c19880eed050",
     "url": "/ArtWorx/index.html"
   }
 ];
