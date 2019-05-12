@@ -12,24 +12,24 @@ self.__precacheManifest = [
     "url": "/ArtWorx/static/js/runtime~main.07055f4c.js"
   },
   {
-    "revision": "8c6319a7f35726432837",
-    "url": "/ArtWorx/static/js/2.ca122ec1.chunk.js"
-  },
-  {
-    "revision": "6f4aa0c0b97eead2a76407c96897c1a4",
-    "url": "/ArtWorx/static/media/img2.6f4aa0c0.jpg"
-  },
-  {
-    "revision": "3efe212c9fef20097d964b7e575bf3aa",
-    "url": "/ArtWorx/static/media/background.3efe212c.jpg"
+    "revision": "10d71f16ac4ca2c4054c",
+    "url": "/ArtWorx/static/js/2.4cb0a565.chunk.js"
   },
   {
     "revision": "c1cf49b280f3e62274c3bc78570b021b",
     "url": "/ArtWorx/static/media/img1.c1cf49b2.jpg"
   },
   {
+    "revision": "6f4aa0c0b97eead2a76407c96897c1a4",
+    "url": "/ArtWorx/static/media/img2.6f4aa0c0.jpg"
+  },
+  {
     "revision": "6168061cd33b7272ef9e74075e998e6c",
     "url": "/ArtWorx/static/media/img1.6168061c.jpg"
+  },
+  {
+    "revision": "3efe212c9fef20097d964b7e575bf3aa",
+    "url": "/ArtWorx/static/media/background.3efe212c.jpg"
   },
   {
     "revision": "c0a30e97d026657062fb52dc84c35ea6",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/ArtWorx/static/media/img3.117a5734.jpg"
   },
   {
-    "revision": "31552ca79706d9a35b34c19880eed050",
+    "revision": "8fcdc50bd87816e86d983a792d8be0d9",
     "url": "/ArtWorx/index.html"
   }
 ];
