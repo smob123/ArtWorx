@@ -4,36 +4,36 @@ self.__precacheManifest = [
     "url": "/ArtWorx/static/media/img3.ddabfcaf.jpg"
   },
   {
-    "revision": "e44fb3ab6f6b4760a8c2",
-    "url": "/ArtWorx/static/css/main.5f3df4d7.chunk.css"
+    "revision": "398be56860d20a58886b",
+    "url": "/ArtWorx/static/css/main.700ad545.chunk.css"
   },
   {
     "revision": "4b03861f07d17db74bb5",
     "url": "/ArtWorx/static/js/runtime~main.07055f4c.js"
   },
   {
-    "revision": "10d71f16ac4ca2c4054c",
-    "url": "/ArtWorx/static/js/2.4cb0a565.chunk.js"
-  },
-  {
-    "revision": "c1cf49b280f3e62274c3bc78570b021b",
-    "url": "/ArtWorx/static/media/img1.c1cf49b2.jpg"
-  },
-  {
-    "revision": "3efe212c9fef20097d964b7e575bf3aa",
-    "url": "/ArtWorx/static/media/background.3efe212c.jpg"
+    "revision": "457aecd3c1a5308e1f3b",
+    "url": "/ArtWorx/static/js/2.644ca7d4.chunk.js"
   },
   {
     "revision": "6f4aa0c0b97eead2a76407c96897c1a4",
     "url": "/ArtWorx/static/media/img2.6f4aa0c0.jpg"
   },
   {
-    "revision": "6168061cd33b7272ef9e74075e998e6c",
-    "url": "/ArtWorx/static/media/img1.6168061c.jpg"
+    "revision": "c1cf49b280f3e62274c3bc78570b021b",
+    "url": "/ArtWorx/static/media/img1.c1cf49b2.jpg"
   },
   {
     "revision": "c0a30e97d026657062fb52dc84c35ea6",
     "url": "/ArtWorx/static/media/background.c0a30e97.jpg"
+  },
+  {
+    "revision": "3efe212c9fef20097d964b7e575bf3aa",
+    "url": "/ArtWorx/static/media/background.3efe212c.jpg"
+  },
+  {
+    "revision": "6168061cd33b7272ef9e74075e998e6c",
+    "url": "/ArtWorx/static/media/background.6168061c.jpg"
   },
   {
     "revision": "c8d3047504f61eb810964a758280aec4",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/ArtWorx/static/media/img2.b3812e13.jpg"
   },
   {
-    "revision": "e44fb3ab6f6b4760a8c2",
-    "url": "/ArtWorx/static/js/main.790f913d.chunk.js"
+    "revision": "398be56860d20a58886b",
+    "url": "/ArtWorx/static/js/main.7692484e.chunk.js"
   },
   {
     "revision": "9a847a9ee48d0f449834995080291965",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/ArtWorx/static/media/img3.117a5734.jpg"
   },
   {
-    "revision": "8fcdc50bd87816e86d983a792d8be0d9",
+    "revision": "c02a0d746c3a0fdfbc2486d5585cfdc8",
     "url": "/ArtWorx/index.html"
   }
 ];
