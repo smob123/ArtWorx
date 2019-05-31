@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import Header from '../components/home/header';
+import Header from '../components/general/header';
+import Background from '../images/home/header/background.jpg';
 import Services from '../components/home/services';
 import OurWork from '../components/home/our-work';
 import Features from '../components/home/features';
@@ -13,7 +14,9 @@ export default class Home extends Component {
         return (
             <div className='main-container'>
                 <div>
-                    <Header />
+                    <Header title='Creative Design'
+                        subtitle='Far far away, behind the word mountains. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.'
+                        image={Background} />
                 </div>
 
                 <div>

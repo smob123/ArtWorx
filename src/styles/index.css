@@ -39,11 +39,17 @@ body {
   background-repeat: no-repeat;
 }
 
-/*landing page*/
-.header.home {
-  background-image: url('../images/home/header/background.jpg');
+.header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, .2);
 }
 
+/*landing page*/
 .top-bar {
   position: relative;
   justify-content: space-between;
@@ -410,20 +416,6 @@ body {
 }
 
 /*Portfolio page*/
-.header.portfolio {
-  background-image: url('../images/portfolio/header/background.jpg');
-}
-
-.header.portfolio::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, .3);
-}
-
 .about-section {
   padding: 20px;
 }
@@ -467,21 +459,6 @@ body {
 }
 
 /*Pricing page*/
-.header.pricing {
-  background-image: url('../images/pricing/header/img1.jpg');
-  background-size: 100% 100%;
-}
-
-.header.pricing::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, .3);
-}
-
 .plan-container {
   padding: 20px;
 }

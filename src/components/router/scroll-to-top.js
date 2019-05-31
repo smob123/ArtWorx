@@ -1,3 +1,8 @@
+/*
+* this component is responsible for resetting the page scrolling to the top position
+* when routing between pages
+*/
+
 import { Component } from 'react';
 import { withRouter } from 'react-router-dom';
 

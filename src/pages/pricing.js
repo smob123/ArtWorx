@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import Header from '../components/pricing/header';
+import Header from '../components/general/header';
+import Background from '../images/pricing/header/background.jpg';
 import img1 from '../images/pricing/details/img1.jpg';
 import img2 from '../images/pricing/details/img2.jpg';
 import img3 from '../images/pricing/details/img3.jpg';
@@ -12,7 +13,7 @@ export default class Pricing extends Component {
         return (
             <div className='main-container pricing dark-bg'>
                 <div>
-                    <Header />
+                    <Header title='Our Pricing' image={Background} />
                 </div>
 
                 <div>
