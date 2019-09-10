@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94b944f807ee410c0f2d8857a3086328",
+    "revision": "a376dd9b5f627fc106d9b8ccc11b449d",
     "url": "/ArtWorx/index.html"
   },
   {
-    "revision": "a96d9cc5d1dfcd516093",
-    "url": "/ArtWorx/static/css/main.49c6907a.chunk.css"
+    "revision": "41a9efb21e03d5dde5ff",
+    "url": "/ArtWorx/static/css/main.8290bded.chunk.css"
   },
   {
-    "revision": "3e0d045244f4c6725317",
-    "url": "/ArtWorx/static/js/2.ec08c5e7.chunk.js"
+    "revision": "8c1ab8cddc9d611238ee",
+    "url": "/ArtWorx/static/js/2.d6dad17d.chunk.js"
   },
   {
-    "revision": "a96d9cc5d1dfcd516093",
-    "url": "/ArtWorx/static/js/main.906c5991.chunk.js"
+    "revision": "41a9efb21e03d5dde5ff",
+    "url": "/ArtWorx/static/js/main.33e0e288.chunk.js"
   },
   {
-    "revision": "4b03861f07d17db74bb5",
-    "url": "/ArtWorx/static/js/runtime~main.07055f4c.js"
+    "revision": "31f55951f1f93951b800",
+    "url": "/ArtWorx/static/js/runtime~main.f5708780.js"
   },
   {
     "revision": "3efe212c9fef20097d964b7e575bf3aa",
