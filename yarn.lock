@@ -2452,7 +2452,7 @@ commander@^2.11.0, commander@^2.18.0, commander@^2.20.0, commander@~2.20.0:
   version "2.20.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.0.tgz#d58bb2b5c1ee8f87b0d340027e9e94e222c5a422"
 
-commander@^3.0.0:
+commander@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/commander/-/commander-3.0.1.tgz#4595aec3530525e671fb6f85fb173df8ff8bf57a"
   integrity sha512-UNgvDd+csKdc9GD4zjtkHKQbT8Aspt2jCBqNSPp53vAS0L1tS9sXB2TCEOPHJ7kt9bN/niWkYj8T3RQSoMXdSQ==
@@ -6405,15 +6405,15 @@ npm-bundled@^1.0.1:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/npm-bundled/-/npm-bundled-1.0.6.tgz#e7ba9aadcef962bb61248f91721cd932b3fe6bdd"
 
-npm-check-updates@^3.1.21:
-  version "3.1.21"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-3.1.21.tgz#3aa7bff3569784fce12b190d152d1dc632d2e37c"
-  integrity sha512-t7KygdHZ1cF2jS6kcOPiUg6s53Sq5jcOqHnddOe92qW7Xd4mh9AUT52OYYQ0YfAiP7VIdZ5379/G/atG6J0WDA==
+npm-check-updates@^3.1.23:
+  version "3.1.23"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-3.1.23.tgz#9f2885665b1c7327d909558bdc65913927a7de12"
+  integrity sha512-Z2dkMdNgue6OPkQDPcAK62Qrwv+G1PaEmKrDrrSAiSP7pRD3u30xOVy1nLukS1XrJ2/zF8XTVxFe9/ubcvlcPQ==
   dependencies:
     chalk "^2.4.2"
     cint "^8.2.1"
     cli-table "^0.3.1"
-    commander "^3.0.0"
+    commander "^3.0.1"
     fast-diff "^1.2.0"
     find-up "4.1.0"
     get-stdin "^7.0.0"
@@ -6421,7 +6421,7 @@ npm-check-updates@^3.1.21:
     libnpmconfig "^1.2.1"
     lodash "^4.17.15"
     node-alias "^1.0.4"
-    pacote "^9.5.4"
+    pacote "^9.5.8"
     progress "^2.0.3"
     prompts "^2.2.1"
     rc-config-loader "^2.0.4"
@@ -6760,7 +6760,7 @@ package-json@^6.3.0:
     registry-url "^5.0.0"
     semver "^6.2.0"
 
-pacote@^9.5.4:
+pacote@^9.5.8:
   version "9.5.8"
   resolved "https://registry.yarnpkg.com/pacote/-/pacote-9.5.8.tgz#23480efdc4fa74515855c9ecf39cf64078f99786"
   integrity sha512-0Tl8Oi/K0Lo4MZmH0/6IsT3gpGf9eEAznLXEQPKgPq7FscnbUOyopnVpwXlnQdIbCUaojWy1Wd7VMyqfVsRrIw==
