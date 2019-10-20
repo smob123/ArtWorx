@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ArtWorx/static/css/main.8290bded.chunk.css",
-    "main.js": "/ArtWorx/static/js/main.d100beb1.chunk.js",
-    "main.js.map": "/ArtWorx/static/js/main.d100beb1.chunk.js.map",
-    "runtime-main.js": "/ArtWorx/static/js/runtime-main.e7410f88.js",
-    "runtime-main.js.map": "/ArtWorx/static/js/runtime-main.e7410f88.js.map",
-    "static/js/2.718a037b.chunk.js": "/ArtWorx/static/js/2.718a037b.chunk.js",
-    "static/js/2.718a037b.chunk.js.map": "/ArtWorx/static/js/2.718a037b.chunk.js.map",
+    "main.js": "/ArtWorx/static/js/main.e6899e08.chunk.js",
+    "main.js.map": "/ArtWorx/static/js/main.e6899e08.chunk.js.map",
+    "runtime-main.js": "/ArtWorx/static/js/runtime-main.ddbca4fe.js",
+    "runtime-main.js.map": "/ArtWorx/static/js/runtime-main.ddbca4fe.js.map",
+    "static/js/2.fde02eaa.chunk.js": "/ArtWorx/static/js/2.fde02eaa.chunk.js",
+    "static/js/2.fde02eaa.chunk.js.map": "/ArtWorx/static/js/2.fde02eaa.chunk.js.map",
     "index.html": "/ArtWorx/index.html",
-    "precache-manifest.792be3d871f9db8fa18c675122743fe6.js": "/ArtWorx/precache-manifest.792be3d871f9db8fa18c675122743fe6.js",
+    "precache-manifest.54c901f60576418bc489da375a8cc856.js": "/ArtWorx/precache-manifest.54c901f60576418bc489da375a8cc856.js",
     "service-worker.js": "/ArtWorx/service-worker.js",
     "static/css/main.8290bded.chunk.css.map": "/ArtWorx/static/css/main.8290bded.chunk.css.map",
     "static/media/background.jpg": "/ArtWorx/static/media/background.c0a30e97.jpg",
@@ -18,5 +18,11 @@
     "static/media/img2.jpg": "/ArtWorx/static/media/img2.b5f70cb4.jpg",
     "static/media/img3.jpg": "/ArtWorx/static/media/img3.ddabfcaf.jpg",
     "static/media/img4.jpg": "/ArtWorx/static/media/img4.b9ee593d.jpg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddbca4fe.js",
+    "static/js/2.fde02eaa.chunk.js",
+    "static/css/main.8290bded.chunk.css",
+    "static/js/main.e6899e08.chunk.js"
+  ]
 }
